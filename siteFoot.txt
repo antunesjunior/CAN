@@ -1,0 +1,19 @@
+__CAN__ 
+- Menu 
+    * Home
+        .Banner slideshow
+        .Breve descrição
+        .Pontos de maior atraçao
+    * campeonato
+        - grupos e Classificações
+        - ultimos resultados 
+        - Proximos Jogos 
+        - Melhor marcadores
+    * Estrelas Africanas
+    * Notícias
+        - blog 
+        - podcast
+    * Sobre nós 
+    * Contactos
+    * Login 
+    
